@@ -2,70 +2,86 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://gh.netlogix.de/libsonnet_sealed-secrets/</loc>
-         <lastmod>2025-09-16</lastmod>
+         <lastmod>2026-01-21</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_sealed-secrets/0.28.0/</loc>
-         <lastmod>2025-09-16</lastmod>
+         <lastmod>2026-01-21</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_sealed-secrets/0.28.0/bitnami/</loc>
-         <lastmod>2025-09-16</lastmod>
+         <lastmod>2026-01-21</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_sealed-secrets/0.28.0/bitnami/v1alpha1/</loc>
-         <lastmod>2025-09-16</lastmod>
+         <lastmod>2026-01-21</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_sealed-secrets/0.28.0/bitnami/v1alpha1/sealedSecret/</loc>
-         <lastmod>2025-09-16</lastmod>
+         <lastmod>2026-01-21</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_sealed-secrets/0.29.0/</loc>
-         <lastmod>2025-09-16</lastmod>
+         <lastmod>2026-01-21</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_sealed-secrets/0.29.0/bitnami/</loc>
-         <lastmod>2025-09-16</lastmod>
+         <lastmod>2026-01-21</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_sealed-secrets/0.29.0/bitnami/v1alpha1/</loc>
-         <lastmod>2025-09-16</lastmod>
+         <lastmod>2026-01-21</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_sealed-secrets/0.29.0/bitnami/v1alpha1/sealedSecret/</loc>
-         <lastmod>2025-09-16</lastmod>
+         <lastmod>2026-01-21</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_sealed-secrets/0.30.0/</loc>
-         <lastmod>2025-09-16</lastmod>
+         <lastmod>2026-01-21</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_sealed-secrets/0.30.0/bitnami/</loc>
-         <lastmod>2025-09-16</lastmod>
+         <lastmod>2026-01-21</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_sealed-secrets/0.30.0/bitnami/v1alpha1/</loc>
-         <lastmod>2025-09-16</lastmod>
+         <lastmod>2026-01-21</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_sealed-secrets/0.30.0/bitnami/v1alpha1/sealedSecret/</loc>
-         <lastmod>2025-09-16</lastmod>
+         <lastmod>2026-01-21</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_sealed-secrets/0.32.2/</loc>
-         <lastmod>2025-09-16</lastmod>
+         <lastmod>2026-01-21</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_sealed-secrets/0.32.2/bitnami/</loc>
-         <lastmod>2025-09-16</lastmod>
+         <lastmod>2026-01-21</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_sealed-secrets/0.32.2/bitnami/v1alpha1/</loc>
-         <lastmod>2025-09-16</lastmod>
+         <lastmod>2026-01-21</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_sealed-secrets/0.32.2/bitnami/v1alpha1/sealedSecret/</loc>
-         <lastmod>2025-09-16</lastmod>
+         <lastmod>2026-01-21</lastmod>
+    </url>
+    <url>
+         <loc>https://gh.netlogix.de/libsonnet_sealed-secrets/0.33.1/</loc>
+         <lastmod>2026-01-21</lastmod>
+    </url>
+    <url>
+         <loc>https://gh.netlogix.de/libsonnet_sealed-secrets/0.33.1/bitnami/</loc>
+         <lastmod>2026-01-21</lastmod>
+    </url>
+    <url>
+         <loc>https://gh.netlogix.de/libsonnet_sealed-secrets/0.33.1/bitnami/v1alpha1/</loc>
+         <lastmod>2026-01-21</lastmod>
+    </url>
+    <url>
+         <loc>https://gh.netlogix.de/libsonnet_sealed-secrets/0.33.1/bitnami/v1alpha1/sealedSecret/</loc>
+         <lastmod>2026-01-21</lastmod>
     </url>
 </urlset>
